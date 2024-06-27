@@ -5,5 +5,7 @@ Exercises
 *.ai
 3D/**/VW BACKUP
 *.tm
+*.bpn
+*.pln
 *.psd
 *.lck
