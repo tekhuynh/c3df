@@ -4,4 +4,6 @@
 Exercises
 *.ai
 3D/**/VW BACKUP
-3D/*.tm
+*.tm
+*.psd
+*.lck
